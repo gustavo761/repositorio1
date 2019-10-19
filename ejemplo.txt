@@ -1,0 +1,7 @@
+def fun1():
+   print('esto no es python')
+
+def fun2():
+   print("mensaje de funcion 2")
+
+a = b + c
