@@ -9,3 +9,4 @@ a = b + c
 def fun3():
    print("mensaje de funcion 2")
 hola mundo
+hola mundo 2
