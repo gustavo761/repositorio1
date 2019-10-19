@@ -5,3 +5,7 @@ def fun2():
    print("mensaje de funcion 2")
 
 a = b + c
+
+def fun3():
+   print("mensaje de funcion 2")
+hola mundo
