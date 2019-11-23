@@ -11,7 +11,3 @@ def fun3():
 hola mundo
 hola mundo 2
 
-def fun4():
-   print("mensaje de funcion 3")
-hola mundo
-hola mundo 2
